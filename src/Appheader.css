@@ -1,0 +1,21 @@
+.menu-box {
+    padding: 10px;
+    background-color: #053250;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s ease; /* Add transition for smooth effect */
+}
+
+.menu-box:hover {
+    background-color: #3a5aab; /* Change background color on hover */
+}
+
+.menu-link {
+    text-decoration: none;
+    color: black;
+}
+
+.header span {
+    margin-left: auto;
+}
+

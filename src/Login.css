@@ -1,0 +1,12 @@
+.custom-bg-dark {
+    background-color: rgb(11, 7, 35) !important; /* Use !important to ensure the override */
+}
+
+.errmsg {
+    color: red;
+}
+
+.custom-heading-color h2 {
+    color: white;
+}
+

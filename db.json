@@ -1,0 +1,169 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Zainab Dongarkar",
+      "password": "Adminuser@123",
+      "email": "zainab@gmail.com",
+      "phone": "9665066257",
+      "country": "india",
+      "address": "Ratnagiri",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Sadiya Phansopkar",
+      "password": "Ntuser@123",
+      "email": "sadiya@gmail.com",
+      "phone": "6754328765",
+      "country": "india",
+      "address": "Ratnagiri",
+      "role": "user",
+      "gender": "female"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    },
+    {
+      "role": "user1",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    }
+  ],
+  "customer": [
+    {
+      "code": 1,
+      "name": "Zainab",
+      "email": "zainabdongarkar47@gmail.com"
+    },
+    {
+      "code": 2,
+      "name": "Saba",
+      "email": "sabasolkar@gmail.com"
+    },
+    {
+      "code": 3,
+      "name": "Umera",
+      "email": "umeramirkar@gmail.com"
+    },
+    {
+      "code": 4,
+      "name": "Sadiya",
+      "email": "sadiyaphansopkar@gmail.com"
+    },
+    {
+      "code": 5,
+      "name": "Misbah",
+      "email": "misbahmukadam@gmail.com"
+    },
+    {
+      "code": 6,
+      "name": "Madhura",
+      "email": "madhuravalke@gmail.com"
+    },
+    {
+      "code": 7,
+      "name": "Purva",
+      "email": "purvachavande@gmail.com"
+    },
+    {
+      "code": 8,
+      "name": "Simran",
+      "email": "simransarang@gmail.com"
+    },
+    {
+      "code": 9,
+      "name": "Aditi",
+      "email": "aditipalkar@gmail.com"
+    },
+    {
+      "code": 10,
+      "name": "Alisha",
+      "email": "alishakhot@gmail.com"
+    },
+    {
+      "code": 11,
+      "name": "Poorva",
+      "email": "poorvapalkar@gmail.com"
+    },
+    {
+      "code": 12,
+      "name": "Arman",
+      "email": "armanmirkar@gmail.com"
+    },
+    {
+      "code": 13,
+      "name": "Daniyal",
+      "email": "daniyalshirgaonkar@gmail.com"
+    },
+    {
+      "code": 14,
+      "name": "Saad",
+      "email": "saadmhaskar@gmail.com"
+    },
+    {
+      "code": 15,
+      "name": "Umar",
+      "email": "umarnimbal@gmail.com"
+    },
+    {
+      "code": 16,
+      "name": "Yasmeen",
+      "email": "yasmeensolkar@gmail.com"
+    },
+    {
+      "code": 17,
+      "name": "Nasira",
+      "email": "nasirabhatkar@gmail.com"
+    },
+    {
+      "code": 18,
+      "name": "Ashna",
+      "email": "ashnabhatkar@gmail.com"
+    },
+    {
+      "code": 19,
+      "name": "Heena",
+      "email": "heenadongarkar@gmail.com"
+    },
+    {
+      "code": 20,
+      "name": "Shabbir",
+      "email": "shabbirdongarkar@gmail.com"
+    },
+    {
+      "id": "8ad3",
+      "code": "21",
+      "name": "Aaisha",
+      "email": "aaisha@gmail.com"
+    },
+    {
+      "id": "25ed",
+      "code": "22",
+      "name": "saba solkar",
+      "email": "saba@gmail.com"
+    },
+    {
+      "id": "cb5d",
+      "code": "23",
+      "name": "Heena Dongarkar",
+      "email": "heena@gmail.com"
+    }
+  ]
+}
